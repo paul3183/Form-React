@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import Form from './components/Form';
-import About from './pages/about';
+import About from './pages/About';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import AboutLink from './components/AboutLink';
 
